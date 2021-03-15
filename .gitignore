@@ -1,6 +1,6 @@
-*.idea
-*.target
-*.xml
+.idea/
+.target/
+pom.xml
 *.iml
 # Compiled class file
 *.class
